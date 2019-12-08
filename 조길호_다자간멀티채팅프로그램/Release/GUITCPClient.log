@@ -1,0 +1,12 @@
+﻿  GUITCPClient.cpp
+C:\Users\kilho\Desktop\조길호_다자간멀티채팅프로그램\GUITCPClient.cpp(114,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 'vsprintf' 선언을 참조하십시오.
+C:\Users\kilho\Desktop\조길호_다자간멀티채팅프로그램\GUITCPClient.cpp(175,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 'inet_addr' 선언을 참조하십시오.
+C:\Users\kilho\Desktop\조길호_다자간멀티채팅프로그램\GUITCPClient.cpp(245,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : 'inet_addr' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 54 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  GUITCPClient.vcxproj -> C:\Users\kilho\Desktop\조길호_다자간멀티채팅프로그램\Release\GUITCPClient.exe
